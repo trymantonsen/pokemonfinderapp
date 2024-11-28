@@ -1,2 +1,2 @@
 # pokemonfinderapp
-A simple and easy pokemon finder application
+A simple pokemon finder application using HTML, CSS and JS.
